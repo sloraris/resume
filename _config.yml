@@ -1,6 +1,6 @@
 title: sloraris
 logo: /assets/img/slo-logo.png
-description: A place for me to tout my skills.
-show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
+include:
+  - _includes/head.html
