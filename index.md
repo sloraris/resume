@@ -1,17 +1,8 @@
-# Hi, I'm sloraris. Welcome to my resume.
-
-## Contact me:
-<p align="left">
-    <a href="sloraris@sloraris.dev">
-        <img src="https://img.shields.io/badge/Email-black?style=flat&logo=gmail&logoColor=white&labelColor=black&color=white" alt="Email sloraris">
-    </a>&nbsp;
-   <a href="discordapp.com/users/858914004935639081">
-        <img src="https://img.shields.io/badge/Discord-black?style=flat&logo=discord&logoColor=white&labelColor=black&color=white" alt="sloraris on Discord">
-    </a>&nbsp;
-    <a href="https://hub.docker.com/r/mariusbegby/cadence">
-        <img src="https://img.shields.io/badge/Github-black?style=flat&logo=github&logoColor=white&labelColor=black&color=white" alt="sloraris on Github">
-    </a>
-</p>
+# Hi, I'm sloraris.
+## Welcome to my resume.
+If you're visiting from a resume I've submitted: this is a supplementary (non-exhaustive) list of tools I've used, skills I've gained, and projects I've worked on.\
+This page is focused on my personal skill growth and knowledge seeking outside standard educational facilities.\
+In other words, this is the stuff I do for fun ;)
 
 ## Tools
 ### Advanced
