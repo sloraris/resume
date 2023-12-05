@@ -2,5 +2,3 @@ title:
 logo: /assets/img/slo-logo.png
 google_analytics:
 theme: jekyll-theme-minimal
-include:
-  - _includes/head.html
