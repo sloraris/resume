@@ -1,6 +1,6 @@
-title: Minimal theme
+title: sloraris
 logo: /assets/img/slo-logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
+description: A place to tout my skills.
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
