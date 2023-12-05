@@ -1,10 +1,11 @@
 # Hi, I'm sloraris.
 ## Welcome to my resume.
-If you're visiting from a resume I've submitted: this is a supplementary (non-exhaustive) list of tools I've used, skills I've gained, and projects I've worked on.\
+If you're visiting from a resume I've submitted: this is a supplementary list of tools I've used, skills I've gained, and projects I've worked on.\
 This page is focused on my personal skill growth and knowledge seeking outside standard educational facilities.\
+\
 In other words, this is the stuff I do for fun ;)
 
-## Tools
+## Tools/Skills
 ### Advanced
 - Virtualization (Proxmox, VMWare, UDM, Parallels)
 - Containerization (Docker, Docker-Compose, Portainer, Dockge, Podman, LXC/LXD)
