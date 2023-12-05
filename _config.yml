@@ -1,4 +1,6 @@
 title: sloraris.dev
+seo:
+  title: false
 logo: /assets/img/slo-logo.png
 google_analytics:
 theme: jekyll-theme-minimal
