@@ -7,7 +7,7 @@ In other words, this is the stuff I do for fun ;)
 
 ## Tools/Skills
 ### Advanced
-- Virtualization (Proxmox, VMWare, UDM, Parallels)
+- Virtualization (Proxmox, VMWare, UTM, Parallels)
 - Containerization (Docker, Docker-Compose, Portainer, Dockge, Podman, LXC/LXD)
 - Linux (debian, ubuntu, fedora, alpine, nix)
 - MacOS
