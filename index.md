@@ -20,7 +20,7 @@ In other words, this is the stuff I do for fun ;)
 - Python
 - Cloud computing (AWS)
 - HTML/CSS/MarkDown (Jekyll, GitHub Pages)
-- Web hosting (SSL certifications, NGINX Proxy Manager, Traefik)
+- Web hosting (SSL certificates, NGINX Proxy Manager, Traefik)
 - Web JSON API
 - Network/Device security analysis (Nessus, NMAP, Traceroute)
 
