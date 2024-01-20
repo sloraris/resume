@@ -7,7 +7,7 @@ In other words, this is the stuff I do for fun ;)
 
 ## Tools/Skills
 ### Advanced
-- Virtualization (Proxmox, VMWare, UTM, Parallels)
+- Virtualization (Proxmox, VMWare, Boxes, UTM, Parallels)
 - Containerization (Docker, Docker-Compose, Portainer, Dockge)
 - Linux (debian, ubuntu, fedora, alpine)
 - MacOS
@@ -24,8 +24,14 @@ In other words, this is the stuff I do for fun ;)
 - Web JSON API
 - Network/Device security analysis (Nessus, NMAP, Traceroute)
 
+### Self-learning (currently in process)
+- Ansible
+- Terraform
+- Github Actions
+- CI/CD
+
 ## Projects
-### HomeLab
+### HomeLab - codename: ORBIT
 - Hosted game servers on virtualized systems (Minecraft via Multicraft and Pterodactyl)
 - Self-hosted personal cloud/media services using redundant/remote NAS systems and RAID (JellyFin, Immich, TrueNAS Scale)
 - Deployed personal container and device uptime management notification system using Uptime-Kuma and Pushover
