@@ -13,9 +13,15 @@ In other words, this is the stuff I do for fun ;)
 - MacOS
 - Windows
 - AI prompt leverage (extensive use of ChatGPT 4.0)
+- Networking (OPNSense/PFSense and Unifi OS)
+  - VLANs
+  - Subnetting/CIDR
+  - DNS
+  - Firewall rules
+  - Cloudflare domain and records management
+  - IDS/IPS (Suricata/CrowdSec/Zenarmor)
 
 ### Proficient
-- Networking (OPNSense: VLANs, Subnetting, CIDR, DNS, Firewall rules, Cloudflare domain and records management, IDS/IPS like Suricata/CrowdSec/Zenarmor)
 - Bash/ZSH
 - Python
 - Cloud computing (AWS)
