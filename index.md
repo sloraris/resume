@@ -7,7 +7,7 @@ In other words, this is the stuff I do for fun ;)
 
 ## Tools/Skills
 ### Advanced
-- Virtualization (Proxmox, VMWare, Boxes, UTM, Parallels)
+- Virtualization (Proxmox)
 - Containerization (Docker, Docker-Compose, Portainer, Dockge)
 - Linux (debian, ubuntu, fedora, alpine)
 - MacOS
@@ -19,15 +19,13 @@ In other words, this is the stuff I do for fun ;)
   - DNS
   - Firewall rules
   - Cloudflare domain and records management
-  - IDS/IPS (Suricata/CrowdSec/Zenarmor)
 
 ### Proficient
 - Bash/ZSH
 - Python
 - Cloud computing (AWS)
-- HTML/CSS/MarkDown (Jekyll, GitHub Pages)
+- HTML/CSS
 - Web hosting (SSL certificates, NGINX Proxy Manager, Traefik)
-- Web JSON API
 - Network/Device security analysis (Nessus, NMAP, Traceroute)
 
 ### Self-learning (currently in process)
@@ -43,5 +41,4 @@ In other words, this is the stuff I do for fun ;)
 - Deployed personal container and device uptime management notification system using Uptime-Kuma and Pushover
 - Containerized self-hosted Discord Music Bot [Cadence](https://github.com/mariusbegby/cadence-discord-bot) using Docker
 - Deployed and configured personal network and device security compliance management (SIEM) using Wazuh
-- Self-hosted and self-published a web archive of project documentation and skills learned (major WIP, can be viewed in current state at [archive.sloraris.dev](https://archive.sloraris.dev))
 - Designed and deployed a monorepo with IaC using Teraform and Ansible to automate Homelab deployment and management
