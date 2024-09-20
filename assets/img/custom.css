@@ -1,7 +1,13 @@
 body {
   background-color: #181e53;
+  font-family: 'exo 2';
 }
 
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'ubuntu';
+}
+
+/* global font color */
 body, h1, h2, h3, h4, h5, h6, p, a {
   color: #e7eff9;
 }
