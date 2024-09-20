@@ -7,15 +7,28 @@ In other words, this is the stuff I do for fun ;)
 
 ## Tools/Skills
 ### Advanced
-- Virtualization (Proxmox)
-- Containerization (Docker, Docker-Compose, Portainer, Dockge)
-- Linux (debian, ubuntu, fedora, alpine)
+- Virtualization
+  - Proxmox (QEMU)
+  - Virtualbox
+  - UTM
+- Containerization
+  - Docker/Podman
+  - Docker Compose
+  - Portainer/Dockge/Rancher
+- Linux
+  - Debian (derivatives: ubuntu, raspbian, pika)
+  - Fedora
 - MacOS
 - Windows
-- AI prompt leverage (extensive use of ChatGPT 4.0)
-- Networking (OPNSense/PFSense and Unifi OS)
+- AI prompt leverage (extensively used for research and brainstorming)
+  - ChatGPT
+  - Claude
+  - Gemini
+  - Llama
+- Networking (OPNSense / PFSense / Unifi)
   - VLANs
   - Subnetting/CIDR
+  - DHCP
   - DNS
   - Firewall rules
   - Cloudflare domain and records management
@@ -25,14 +38,19 @@ In other words, this is the stuff I do for fun ;)
 - Python
 - Cloud computing (AWS)
 - HTML/CSS
-- Web hosting (SSL certificates, NGINX Proxy Manager, Traefik)
+- Web hosting
+  - SSL/TLS
+  - Traefik reverse proxy (load balancer, ingress controller, etc.)
 - Network/Device security analysis (Nessus, NMAP, Traceroute)
-
-### Self-learning (currently in process)
+  - Nessus
+  - NMAP
+  - Traceroute
+- Kubernetes
 - Ansible
 - Terraform
-- Github Actions
-- CI/CD
+
+### Self-learning (currently in process)
+- CI/CD (Github Actions)
 
 ## Projects
 ### HomeLab - codename: ORBIT
