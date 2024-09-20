@@ -3,4 +3,4 @@ logo: /assets/img/slo-logo.png
 google_analytics:
 theme: jekyll-theme-minimal
 minima:
-  skin: css/sloraris-brand.css
+  skin: custom
